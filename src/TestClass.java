@@ -7,8 +7,10 @@ public class TestClass {
         System.out.println("branch ile calisma : 19 Kasim");
 
 
+
         System.out.println("master branch 21:39");
 
 
     }
+
     }
